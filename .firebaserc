@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-43fbe": {
+      "hosting": {
+        "proyecto2": [
+          "login-ng-43fbe"
+        ]
+      }
+    }
+  }
+}
